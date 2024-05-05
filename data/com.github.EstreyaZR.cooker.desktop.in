@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=cooker
+Exec=cooker
+Icon=com.github.EstreyaZR.cooker
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

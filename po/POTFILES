@@ -1,0 +1,6 @@
+data/com.github.EstreyaZR.cooker.desktop.in
+data/com.github.EstreyaZR.cooker.metainfo.xml.in
+data/com.github.EstreyaZR.cooker.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
